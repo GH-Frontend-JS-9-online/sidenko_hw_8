@@ -2,11 +2,13 @@
 
 * Challenge 1
   * URL:https://edabit.com/challenge/QGHWExeW6neueusKP
-  * Solution:https://www.dropbox.com/home?preview=Screenshot+from+2019-12-15+11-03-24.png
+  * Solution:https://www.dropbox.com/s/pgw1ysv9oo4xmcy/Screenshot%20from%202019-12-15%2011-03-24.png?dl=0
+
 
 * Challenge 2
   * URL:https://edabit.com/challenge/4d4RamC7mArPEwHpX
-  * Solution:https://www.dropbox.com/home?preview=Screenshot+from+2019-12-16+21-48-58.png
+  * Solution:https://www.dropbox.com/s/nzqrgsrtrgawobe/Screenshot%20from%202019-12-16%2021-48-58.png?dl=0
+
 
 
 
