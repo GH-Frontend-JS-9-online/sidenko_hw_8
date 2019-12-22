@@ -54,9 +54,17 @@
   * URL:https://edabit.com/challenge/4aaBNPnFMc3bzR7JR
   * Solution:https://www.dropbox.com/s/wgned9rx12f4urg/Screenshot%20from%202019-12-22%2006-46-47.png?dl=0
 
+* Challenge 2
+  * URL:https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
+  * Solution:https://www.dropbox.com/s/o3ynmaartkj152n/Screenshot%20from%202019-12-22%2006-56-08.png?dl=0
 
+## Classes
 
+* Challenge 1
+  * URL:https://edabit.com/challenge/Hgb38yhWGwJCMHbRQ
+  * Solution:https://www.dropbox.com/s/2z5u7qd4wl64ec7/Screenshot%20from%202019-12-22%2008-38-09.png?dl=0
 
-
-
+* Challenge 2
+  * URL:https://edabit.com/challenge/yxKoCKemzacK6PECM
+  * Solution:https://www.dropbox.com/s/hphrbjk0jro06ok/Screenshot%20from%202019-12-22%2008-59-34.png?dl=0
 
