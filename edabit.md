@@ -35,6 +35,28 @@
   * Solution:https://www.dropbox.com/s/zfokg2on44pufxq/Screenshot%20from%202019-12-21%2010-11-32.png?dl=0
 
 * Challenge 2
-  * URL:
-  * Solution:
+  * URL:https://edabit.com/challenge/hzxN9bAebBPNqdQto
+  * Solution:https://www.dropbox.com/s/fekpfvjvt7qv8ve/Screenshot%20from%202019-12-21%2011-00-42.png?dl=0
+
+## Scope
+
+* Challenge 1
+  * URL:https://edabit.com/challenge/9tJ97HK3c4Koy3KsF
+  * Solution:https://www.dropbox.com/s/mwqtykmxu50geab/Screenshot%20from%202019-12-22%2006-22-46.png?dl=0
+
+* Challenge 2
+  * URL:https://edabit.com/challenge/wTQpSEZPpPdyLtK9k
+  * Solution:https://www.dropbox.com/s/zilg8k5akgdzy8l/Screenshot%20from%202019-12-22%2006-40-26.png?dl=0
+
+## Objects
+
+* Challenge 1
+  * URL:https://edabit.com/challenge/4aaBNPnFMc3bzR7JR
+  * Solution:https://www.dropbox.com/s/wgned9rx12f4urg/Screenshot%20from%202019-12-22%2006-46-47.png?dl=0
+
+
+
+
+
+
 
